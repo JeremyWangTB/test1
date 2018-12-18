@@ -1,2 +1,2 @@
 add some texts to test
-add some remote text
+add some remote texts
