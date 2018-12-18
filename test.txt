@@ -6,3 +6,4 @@ add some remote texts
 
 add lacal
 
+add remote infos
