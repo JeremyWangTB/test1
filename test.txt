@@ -6,5 +6,9 @@ add some remote texts
 
 add lacal
 
+<<<<<<< HEAD
 add local123
 
+=======
+add remote infos
+>>>>>>> 7aaba211ede166e95da65e58478cda901b44f5f8
